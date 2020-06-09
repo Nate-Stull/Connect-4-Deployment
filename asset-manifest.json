@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Connect-4-Deployment/static/css/main.52109081.chunk.css",
+    "main.js": "/Connect-4-Deployment/static/js/main.2f13dddd.chunk.js",
+    "main.js.map": "/Connect-4-Deployment/static/js/main.2f13dddd.chunk.js.map",
+    "runtime-main.js": "/Connect-4-Deployment/static/js/runtime-main.6befbd95.js",
+    "runtime-main.js.map": "/Connect-4-Deployment/static/js/runtime-main.6befbd95.js.map",
+    "static/css/2.ec8c1d41.chunk.css": "/Connect-4-Deployment/static/css/2.ec8c1d41.chunk.css",
+    "static/js/2.464f7792.chunk.js": "/Connect-4-Deployment/static/js/2.464f7792.chunk.js",
+    "static/js/2.464f7792.chunk.js.map": "/Connect-4-Deployment/static/js/2.464f7792.chunk.js.map",
+    "index.html": "/Connect-4-Deployment/index.html",
+    "precache-manifest.fd3225ac4baaf5936ccc61fd1482b733.js": "/Connect-4-Deployment/precache-manifest.fd3225ac4baaf5936ccc61fd1482b733.js",
+    "service-worker.js": "/Connect-4-Deployment/service-worker.js",
+    "static/css/2.ec8c1d41.chunk.css.map": "/Connect-4-Deployment/static/css/2.ec8c1d41.chunk.css.map",
+    "static/css/main.52109081.chunk.css.map": "/Connect-4-Deployment/static/css/main.52109081.chunk.css.map",
+    "static/js/2.464f7792.chunk.js.LICENSE.txt": "/Connect-4-Deployment/static/js/2.464f7792.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Connect-4-Deployment/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6befbd95.js",
+    "static/css/2.ec8c1d41.chunk.css",
+    "static/js/2.464f7792.chunk.js",
+    "static/css/main.52109081.chunk.css",
+    "static/js/main.2f13dddd.chunk.js"
+  ]
+}
